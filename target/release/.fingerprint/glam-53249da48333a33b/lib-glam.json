@@ -1,0 +1,1 @@
+{"rustc":12047664292709028906,"features":"[\"default\", \"scalar-math\", \"std\"]","target":10373573838773885765,"profile":14094339167972473758,"path":6648303075250941251,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/glam-53249da48333a33b/dep-lib-glam"}}],"rustflags":[],"metadata":4763942199903081431,"config":2202906307356721367,"compile_kind":0}

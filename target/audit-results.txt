@@ -1,0 +1,175 @@
+seed=20 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=248 rejected=1192 peak_active=128
+passed_under_load=125 passed_total=248 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=11
+min_speed=Some(0.0) max_speed=Some(119.94) min_time=Some(6.81791238735132) max_time=Some(63.736744497253994)
+neighbor_checks=7069049 simulation_seconds=230.82 wall_seconds=0.434
+audit=PASS
+
+seed=1 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=261 rejected=1179 peak_active=126
+passed_under_load=137 passed_total=261 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=2
+min_speed=Some(0.0) max_speed=Some(119.99) min_time=Some(6.241312320033801) max_time=Some(61.42372572228231)
+neighbor_checks=6742010 simulation_seconds=225.72 wall_seconds=0.428
+audit=PASS
+
+seed=2 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=260 rejected=1180 peak_active=127
+passed_under_load=137 passed_total=260 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.979996) min_time=Some(6.508541470766275) max_time=Some(61.32848379388104)
+neighbor_checks=6938203 simulation_seconds=225.82 wall_seconds=0.433
+audit=PASS
+
+seed=3 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=241 rejected=1199 peak_active=127
+passed_under_load=122 passed_total=241 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=4
+min_speed=Some(0.0) max_speed=Some(119.79) min_time=Some(6.687115297715) max_time=Some(64.98221855957934)
+neighbor_checks=6684994 simulation_seconds=222.80 wall_seconds=0.409
+audit=PASS
+
+seed=4 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=239 rejected=1201 peak_active=128
+passed_under_load=117 passed_total=239 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=13
+min_speed=Some(0.0) max_speed=Some(119.78) min_time=Some(6.8042130374661065) max_time=Some(76.58299719591501)
+neighbor_checks=7011044 simulation_seconds=252.08 wall_seconds=0.524
+audit=PASS
+
+seed=5 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=233 rejected=1207 peak_active=126
+passed_under_load=111 passed_total=233 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=3
+min_speed=Some(0.0) max_speed=Some(119.88) min_time=Some(7.267042461534528) max_time=Some(73.40156922259311)
+neighbor_checks=6726670 simulation_seconds=244.57 wall_seconds=0.424
+audit=PASS
+
+seed=6 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=260 rejected=1180 peak_active=128
+passed_under_load=138 passed_total=260 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.770004) min_time=Some(6.343995259640202) max_time=Some(64.01600754756606)
+neighbor_checks=7058150 simulation_seconds=229.25 wall_seconds=0.442
+audit=PASS
+
+seed=7 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=234 rejected=1206 peak_active=127
+passed_under_load=112 passed_total=234 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.9) min_time=Some(6.60963246996212) max_time=Some(73.97963974627)
+neighbor_checks=6803781 simulation_seconds=244.73 wall_seconds=0.426
+audit=PASS
+
+seed=8 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=245 rejected=1195 peak_active=127
+passed_under_load=124 passed_total=245 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=7
+min_speed=Some(0.0) max_speed=Some(119.88) min_time=Some(6.684726165731983) max_time=Some(77.29342375297902)
+neighbor_checks=6948292 simulation_seconds=252.90 wall_seconds=0.441
+audit=PASS
+
+seed=9 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=236 rejected=1204 peak_active=126
+passed_under_load=112 passed_total=236 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.99) min_time=Some(6.541863033920663) max_time=Some(71.857190093401)
+neighbor_checks=6902397 simulation_seconds=243.73 wall_seconds=0.429
+audit=PASS
+
+seed=10 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=234 rejected=1206 peak_active=126
+passed_under_load=112 passed_total=234 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=7
+min_speed=Some(0.0) max_speed=Some(119.520004) min_time=Some(8.03526251862465) max_time=Some(80.10405374560096)
+neighbor_checks=7187919 simulation_seconds=261.08 wall_seconds=0.456
+audit=PASS
+
+seed=11 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=229 rejected=1211 peak_active=125
+passed_under_load=107 passed_total=229 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=3
+min_speed=Some(0.0) max_speed=Some(119.96) min_time=Some(6.423309774696895) max_time=Some(72.8590302954076)
+neighbor_checks=6790222 simulation_seconds=244.73 wall_seconds=0.422
+audit=PASS
+
+seed=12 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=254 rejected=1186 peak_active=125
+passed_under_load=133 passed_total=254 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=6
+min_speed=Some(0.0) max_speed=Some(119.96) min_time=Some(7.165071953522784) max_time=Some(63.30875460703809)
+neighbor_checks=6849385 simulation_seconds=225.02 wall_seconds=0.424
+audit=PASS
+
+seed=13 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=240 rejected=1200 peak_active=126
+passed_under_load=118 passed_total=240 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.979996) min_time=Some(7.851833966374556) max_time=Some(75.35526473126336)
+neighbor_checks=6850591 simulation_seconds=251.18 wall_seconds=0.443
+audit=PASS
+
+seed=14 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=255 rejected=1185 peak_active=126
+passed_under_load=132 passed_total=255 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=9
+min_speed=Some(0.0) max_speed=Some(119.87) min_time=Some(6.580892090002802) max_time=Some(71.48784101431163)
+neighbor_checks=6738002 simulation_seconds=223.03 wall_seconds=0.416
+audit=PASS
+
+seed=15 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=255 rejected=1185 peak_active=127
+passed_under_load=134 passed_total=255 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=9
+min_speed=Some(0.0) max_speed=Some(119.7) min_time=Some(7.896240664025448) max_time=Some(63.59657836164132)
+neighbor_checks=6782947 simulation_seconds=233.23 wall_seconds=0.430
+audit=PASS
+
+seed=16 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=251 rejected=1189 peak_active=127
+passed_under_load=128 passed_total=251 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.8) min_time=Some(6.7226809511583525) max_time=Some(67.67506814852774)
+neighbor_checks=7062401 simulation_seconds=239.38 wall_seconds=0.437
+audit=PASS
+
+seed=17 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=226 rejected=1214 peak_active=125
+passed_under_load=104 passed_total=226 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=12
+min_speed=Some(0.0) max_speed=Some(119.96) min_time=Some(6.444396701455339) max_time=Some(79.66175128941283)
+neighbor_checks=6664969 simulation_seconds=254.82 wall_seconds=0.427
+audit=PASS
+
+seed=18 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=239 rejected=1201 peak_active=126
+passed_under_load=115 passed_total=239 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=15
+min_speed=Some(0.0) max_speed=Some(119.87) min_time=Some(6.760798390706676) max_time=Some(71.65494852587173)
+neighbor_checks=6651910 simulation_seconds=242.55 wall_seconds=0.425
+audit=PASS
+
+seed=19 traffic_seconds=120 attempted_rate=12
+attempts=1440 accepted=217 rejected=1223 peak_active=125
+passed_under_load=94 passed_total=217 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=5
+min_speed=Some(0.0) max_speed=Some(119.86) min_time=Some(7.259420287609236) max_time=Some(86.80699725523098)
+neighbor_checks=6875258 simulation_seconds=270.95 wall_seconds=0.445
+audit=PASS
+
+seed=2026 traffic_seconds=120 attempted_rate=1
+attempts=120 accepted=111 rejected=9 peak_active=27
+passed_under_load=84 passed_total=111 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=3
+min_speed=Some(0.0) max_speed=Some(118.53) min_time=Some(6.821294340864017) max_time=Some(44.10230917336855)
+neighbor_checks=218199 simulation_seconds=160.52 wall_seconds=0.054
+audit=PASS
+
+seed=2026 traffic_seconds=120 attempted_rate=60
+attempts=7200 accepted=232 rejected=6968 peak_active=128
+passed_under_load=108 passed_total=232 remaining=0
+collisions=0 close_calls=0 prevented_conflicts=8
+min_speed=Some(0.0) max_speed=Some(119.770004) min_time=Some(8.24768846010184) max_time=Some(79.41071665683931)
+neighbor_checks=7408346 simulation_seconds=258.92 wall_seconds=0.460
+audit=PASS
